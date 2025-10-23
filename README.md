@@ -25,11 +25,21 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)
 
-# Github Statistics : 
+#  Github Statistics
 
-![Nilay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nilay-Shahane&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nilay-Shahane&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nilay-Shahane&theme=radical)
+<div align="center">
+  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nilay-Shahane&layout=compact&theme=radical&hide_border=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nilay-Shahane&theme=radical&hide_border=true) 
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nilay-Shahane&show_icons=true&theme=radical&hide_border=true&count_private=true)
+
+
+
+
+
+</div>
 
 <!--
 **Nilay-Shahane/Nilay-Shahane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

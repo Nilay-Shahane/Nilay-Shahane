@@ -27,9 +27,9 @@
 
 # Github Statistics : 
 
-![Nilay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NilayShahane&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NilayShahane&layout=compact&theme=radical)
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NilayShahane&theme=radical)
+![Nilay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Nilay-Shahane&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Nilay-Shahane&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Nilay-Shahane&theme=radical)
 
 <!--
 **Nilay-Shahane/Nilay-Shahane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

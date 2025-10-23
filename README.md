@@ -7,10 +7,10 @@
 
 ### Find Me
 
-<div align="center">  
+<div align="center">  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nilay-shahane-9399852ba/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/xIRDO9UE2K/)
-[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-2B457F?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/nilayshahane)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Profile-2B457F?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/Nilay-Shahane)
 </div>
 
 ##  Tech Stack

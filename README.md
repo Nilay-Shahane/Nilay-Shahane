@@ -1,4 +1,14 @@
-#  Tech Stack
+## Hello there, I'm Nilay Shahane! 
+
+<div align="center">
+  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/your-linkedin-username](https://www.linkedin.com/in/nilay-shahane-9399852ba?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app))
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)]([https://leetcode.com/your-leetcode-username](https://leetcode.com/u/xIRDO9UE2K/))
+[![Kaggle Profile](https://img.shields.io/badge/Kaggle-Profile-2B457F?style=for-the-badge&logo=kaggle&logoColor=white)][(https://www.kaggle.com/JayeshWani](https://www.kaggle.com/nilayshahane))
+
+</div>
+
+##  Tech Stack
 ###  Machine Learning & Data Science
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
@@ -41,8 +51,8 @@
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 
-
-#  Github Statistics
+---
+## Github Statistics
 
 <div align="center">
   

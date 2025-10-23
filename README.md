@@ -1,4 +1,7 @@
-## Nilay Shahane
+<div align="center">
+  <h3>Hello there</h3>
+  <h1>I'm Nilay Shahane</h1>
+</div>
 
 <div align="center">
   
@@ -8,7 +11,7 @@
 
 
 </div>
-
+---
 ##  Tech Stack
 ###  Machine Learning & Data Science
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)

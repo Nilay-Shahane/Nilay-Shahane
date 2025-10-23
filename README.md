@@ -1,7 +1,5 @@
 # Tech Stack: 
 
-
-
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
@@ -27,6 +25,11 @@
 ![Figma](https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)
 ![GitHub Pages](https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=githubpages&logoColor=white)
 
+# Github Statistics : 
+
+![Nilay's GitHub Stats](https://github-readme-stats.vercel.app/api?username=NilayShahane&show_icons=true&theme=radical)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NilayShahane&layout=compact&theme=radical)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=NilayShahane&theme=radical)
 
 <!--
 **Nilay-Shahane/Nilay-Shahane** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

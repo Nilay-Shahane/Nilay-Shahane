@@ -2,7 +2,7 @@
   <h3>Hello there</h3>
   <h1>I'm Nilay Shahane</h1>
 </div>
----
+
 
 ### Socials
 <div align="center">
@@ -13,7 +13,6 @@
 
 
 </div>
----
 
 ##  Tech Stack
 ###  Machine Learning & Data Science
@@ -58,7 +57,6 @@
 ![Render](https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=white)
 ![Cloudinary](https://img.shields.io/badge/Cloudinary-3448C5?style=for-the-badge&logo=cloudinary&logoColor=white)
 
----
 ## Github Statistics
 
 <div align="center">

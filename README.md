@@ -1,4 +1,4 @@
-## Hello there, I'm Nilay Shahane! 
+## Nilay Shahane
 
 <div align="center">
   

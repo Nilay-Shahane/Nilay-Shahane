@@ -2,7 +2,9 @@
   <h3>Hello there</h3>
   <h1>I'm Nilay Shahane</h1>
 </div>
+---
 
+### Socials
 <div align="center">
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/nilay-shahane-9399852ba/)
@@ -12,6 +14,7 @@
 
 </div>
 ---
+
 ##  Tech Stack
 ###  Machine Learning & Data Science
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
